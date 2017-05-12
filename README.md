@@ -5,4 +5,4 @@ Espeak struggles after a few words and turns into a stretched out, Daleky voice.
 
 ![pic](/MrGoogleyPoo.jpg)
 ![pic2](/GoogleyInsides.jpg)
-![pic3](/Googley2.jpg)
+#![pic3](/Googley2.jpg)
